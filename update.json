@@ -3,10 +3,17 @@
     "Name": "Hydra Dongle",
     "ButtonName": "Download update",
     "Version": "6.6",
-    "Message": "جديد تحديث يوجد",
+    "Message": "إصدار آخر",
     "DownloadUrl": "https://www.hydradongle.com/download/software"
   },
-  "UMTBox": {
+  "UMTUni": {
+    "Name": "UMT Unisoc",
+    "ButtonName": "Download",
+    "Version": "6.6",
+    "Message": "إصدار آخر",
+    "DownloadUrl": "https://androidfilehost.com/?fid=9180008750105243373"
+  },
+  "UMTQ": {
     "Name": "UMT QcFire",
     "ButtonName": "Download",
     "Version": "12.0",
