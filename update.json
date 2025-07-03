@@ -9,9 +9,16 @@
   "UMTUni": {
     "Name": "UMT Unisoc",
     "ButtonName": "Download",
-    "Version": "6.6",
+    "Version": "0.9",
     "Message": "إصدار آخر",
     "DownloadUrl": "https://androidfilehost.com/?fid=9180008750105243373"
+  },
+  "UMTM": {
+    "Name": "UMT MTK2",
+    "ButtonName": "Download",
+    "Version": "0.9",
+    "Message": "إصدار آخر",
+    "DownloadUrl": "https://mega.nz/file/ecRVASCB#Jp351kA8DSkYLVemE3rrLjsL6NlKzOBsqgn8g5dy42I"
   },
   "UMTQ": {
     "Name": "UMT QcFire",
