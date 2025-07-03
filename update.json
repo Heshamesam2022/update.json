@@ -1,11 +1,16 @@
 {
-  "SIGMA KEY BOX": { "version": "1.0.0", "url": "https://mega.nz/..." },
-  "EFT PRO DONGLE": { "version": "2.1.0", "url": "https://mega.nz/..." },
-  "UMT DONGLE": { "version": "3.2.5", "url": "https://mega.nz/..." },
-  "NCK DONGLE": { "version": "1.9.8", "url": "https://mega.nz/..." },
-  "HYDRA DONGLE": { "version": "4.0.0", "url": "https://mega.nz/..." },
-  "OCTOPLUS BOX": { "version": "6.3.1", "url": "https://mega.nz/..." },
-  "Z3X BOX": { "version": "5.1.0", "url": "https://mega.nz/..." },
-  "INFINITY BEST DONGLE": { "version": "2.0.3", "url": "https://mega.nz/..." },
-  "HCU DONGLE": { "version": "1.5.2", "url": "https://mega.nz/..." }
+  "HydraBox": {
+    "Name": "Hydra Dongle",
+    "ButtonName": "Download update",
+    "Version": "6.6",
+    "Message": "جديد تحديث يوجد",
+    "DownloadUrl": "https://www.hydradongle.com/download/software"
+  },
+  "UMTBox": {
+    "Name": "UMT QcFire",
+    "ButtonName": "Download",
+    "Version": "12.0",
+    "Message": "إصدار آخر",
+    "DownloadUrl": "https://mega.nz/file/2ZImnJoL#v_CPVoKWNPyjdbJesKN0xwxnrhR-XuvJTiC-v_JQVOc"
+  }
 }
