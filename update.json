@@ -1,5 +1,5 @@
 {
-  "HydraBox": {
+    "HydraBox": {
     "Name": "Hydra Dongle",
     "ButtonName": "Download update",
     "Version": "6.6",
@@ -26,5 +26,146 @@
     "Version": "12.0",
     "Message": "إصدار آخر 🆕️",
     "DownloadUrl": "https://mega.nz/file/2ZImnJoL#v_CPVoKWNPyjdbJesKN0xwxnrhR-XuvJTiC-v_JQVOc"
+  },
+  "Sigma": {
+    "Name": "Sigma Plus",
+    "NEW":"0",
+    "ButtonName": "تحميل",
+    "Version": "1.00.10.00",
+    "Message": "",
+    "DownloadUrl": "https://sigmakey.com/en/downloads/software/"
+  },
+  "OctoFRP": {
+    "Name": "Octoplus FRP",
+    "ButtonName": "Download",
+    "Version": "2.8.1.1",
+    "Message": "",
+    "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_FRP_2.8.1.1.exe"
+  },
+  "OctoLG": {
+    "Name": "Octoplus LG",
+    "ButtonName": "Download",
+    "Version": "3.2.4",
+    "Message": "",
+    "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_octopus_LG_3.2.4.0.exe"
+  },
+  "OctoHuawei": {
+    "Name": "Octoplus Huawei",
+    "ButtonName": "Download",
+    "Version": "1.3.5",
+    "Message": "",
+    "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_huawei_1.3.5.exe"
+  },
+  "OctoSamTool": {
+    "Name": "Octoplus Samsung ",
+    "ButtonName": "Download",
+    "Version": "4.3.3.2",
+    "Message": "",
+    "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_samsung_4.3.3.2.exe"
+  },
+  "OctoSamSoft": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "Z3XSam": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "Z3XLG": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "EFT": {
+    "Name": "EFT Pro",
+    "ButtonName": "Download",
+    "Version": "5.1.7",
+    "Message": "آخر إصدار",
+    "DownloadUrl": "https://easy-firmware.com/index.php?a=downloads&b=file&id=250229"
+  },
+  "CM2": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "HCU": {
+    "Name": "",
+    "ButtonName": "Download",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "GCPRO": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "NCKHUA": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "NCKQual": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "NCKiOS": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "NCKAndr": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "NCKGen": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "NCKSam": {
+    "Name": "",
+    "ButtonName": "",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
+  },
+  "NCKPre": {
+    "Name": "NCK MTK Preload",
+    "ButtonName": "Download",
+    "Version": "2.0",
+    "Message": "إصدار آخر",
+    "DownloadUrl": "https://mega.nz/folder/834Elb4T#ZmQ0ohpj27nG0DFUENP5jA"
+  },
+  "NCKUni": {
+    "Name": "NCK Unisoc",
+    "ButtonName": "Download",
+    "Version": "",
+    "Message": "",
+    "DownloadUrl": ""
   }
 }
