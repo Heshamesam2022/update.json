@@ -16,7 +16,7 @@
   "UMTM": {
     "Name": "UMT MTK2",
     "ButtonName": "Download",
-    "Version": "0.9",
+    "Version": "2.2",
     "Message": "إصدار آخر",
     "DownloadUrl": "https://mega.nz/file/ecRVASCB#Jp351kA8DSkYLVemE3rrLjsL6NlKzOBsqgn8g5dy42I"
   },
@@ -71,14 +71,14 @@
     "DownloadUrl": ""
   },
   "Z3XSam": {
-    "Name": "",
+    "Name": "Z3X Samsung",
     "ButtonName": "",
     "Version": "",
     "Message": "",
     "DownloadUrl": ""
   },
   "Z3XLG": {
-    "Name": "",
+    "Name": "Z3X LG",
     "ButtonName": "",
     "Version": "",
     "Message": "",
