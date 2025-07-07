@@ -29,10 +29,10 @@
   },
   "Sigma": {
     "Name": "Sigma Plus",
-    "NEW":"0",
+    "NEW":"1",
     "ButtonName": "تحميل",
     "Version": "1.00.10.00",
-    "Message": "",
+    "Message": "تحديث جديد",
     "DownloadUrl": "https://sigmakey.com/en/downloads/software/"
   },
   "OctoFRP": {
@@ -72,14 +72,14 @@
   },
   "Z3XSam": {
     "Name": "Z3X Samsung",
-    "ButtonName": "",
+    "ButtonName": "تنزيل",
     "Version": "",
     "Message": "",
     "DownloadUrl": ""
   },
   "Z3XLG": {
     "Name": "Z3X LG",
-    "ButtonName": "",
+    "ButtonName": "تنزيل",
     "Version": "",
     "Message": "",
     "DownloadUrl": ""
