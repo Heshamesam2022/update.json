@@ -73,17 +73,17 @@
   },
   "Z3XSam": {
     "Name": "Z3X Samsung",
-    "ButtonName": "تنزيل",
-    "Version": "",
+    "ButtonName": "",
+    "Version": "45.14",
     "Message": "",
-    "DownloadUrl": ""
+    "DownloadUrl": "https://drive.google.com/file/d/1bfd_4BbPKEA8YtTqDRruw7NgPA5I2N23/view"
   },
   "Z3XLG": {
     "Name": "Z3X LG",
-    "ButtonName": "تنزيل",
-    "Version": "",
+    "ButtonName": "",
+    "Version": "9.83",
     "Message": "",
-    "DownloadUrl": ""
+    "DownloadUrl": "https://drive.google.com/file/d/1SJ7wnsw0wGSxMquMjK4WHkfDb4LhwcbN/view"
   },
   "EFT": {
     "Name": "EFT Pro",
@@ -121,11 +121,11 @@
     "DownloadUrl": ""
   },
   "NCKQual": {
-    "Name": "",
+    "Name": "Nck Qualcomm",
     "ButtonName": "",
-    "Version": "",
+    "Version": "0.15.1",
     "Message": "",
-    "DownloadUrl": ""
+    "DownloadUrl": "https://ln5.sync.com/4.0/dl/0d49e50e0/view/default/27507700740000#grzx8j7w-k427gnvi-cqbwixgf-i42pdvzy"
   },
   "NCKiOS": {
     "Name": "",
