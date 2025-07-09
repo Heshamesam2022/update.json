@@ -1,28 +1,28 @@
 {
     "HydraBox": {
     "Name": "Hydra Dongle",
-    "ButtonName": "Download update",
+    "ButtonName": "",
     "Version": "6.6",
     "Message": "إصدار آخر",
     "DownloadUrl": "https://www.hydradongle.com/download/software"
   },
   "UMTUni": {
     "Name": "UMT Unisoc",
-    "ButtonName": "Download",
+    "ButtonName": "",
     "Version": "0.9",
     "Message": "إصدار آخر",
     "DownloadUrl": "https://androidfilehost.com/?fid=9180008750105243373"
   },
   "UMTM": {
     "Name": "UMT MTK2",
-    "ButtonName": "Download",
+    "ButtonName": "",
     "Version": "2.2",
     "Message": "إصدار آخر",
     "DownloadUrl": "https://mega.nz/file/ecRVASCB#Jp351kA8DSkYLVemE3rrLjsL6NlKzOBsqgn8g5dy42I"
   },
   "UMTQ": {
     "Name": "UMT QcFire",
-    "ButtonName": "Download",
+    "ButtonName": "",
     "Version": "12.0",
     "Message": "إصدار آخر 🆕️",
     "DownloadUrl": "https://mega.nz/file/2ZImnJoL#v_CPVoKWNPyjdbJesKN0xwxnrhR-XuvJTiC-v_JQVOc"
@@ -30,14 +30,14 @@
   "Sigma": {
     "Name": "Sigma Plus",
     "NEW":"1",
-    "ButtonName": "تحميل",
+    "ButtonName": "",
     "Version": "1.00.11.00",
     "Message": "تحديث جديد",
     "DownloadUrl": "https://sigmakey.com/nfs/content/5802/file/sigmaplus-software-setup-v1.00.10.00.exe"
   },
   "OctoFRP": {
     "Name": "Octoplus FRP",
-    "ButtonName": "Download",
+    "ButtonName": "",
     "Version": "2.8.1.1",
     "Message": "",
     "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_FRP_2.8.1.1.exe"
