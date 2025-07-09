@@ -44,7 +44,7 @@
   },
   "OctoLG": {
     "Name": "Octoplus LG",
-    "ButtonName": "Download",
+    "ButtonName": "",
     "Version": "3.2.4",
     "Message": "",
     "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_octopus_LG_3.2.4.0.exe"
@@ -159,6 +159,8 @@
     "ButtonName": "Download",
     "Version": "2.0",
     "Message": "إصدار آخر",
+    "pass":"1",
+      "Pass":"NckTeam",
     "DownloadUrl": "https://mega.nz/folder/834Elb4T#ZmQ0ohpj27nG0DFUENP5jA"
   },
   "NCKUni": {
