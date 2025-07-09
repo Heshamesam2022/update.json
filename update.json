@@ -147,10 +147,10 @@
   "NCKiOS": {
     "Name": "",
     "ButtonName": "",
-    "Version": "",
+    "Version": "0.8",
     "Message": "_________",
     "MessageEN": "_________",
-    "DownloadUrl": ""
+    "DownloadUrl": "https://ln5.sync.com/dl/8a3628b40/view/default/20795330500000#r7ri6ghv-deg8rva3-8paxdnwa-jqy9r659"
   },
   "NCKAndr": {
     "Name": "",
@@ -161,20 +161,20 @@
     "DownloadUrl": ""
   },
   "NCKGen": {
-    "Name": "",
+    "Name": "NCK MTK Generic",
     "ButtonName": "",
     "Version": "",
     "Message": "_________",
     "MessageEN": "_________",
-    "DownloadUrl": ""
+    "DownloadUrl": "https://drive.google.com/file/d/1uhAGubuMd5mIgxOaLW4N7JYWHRlOLFxR/view"
   },
   "NCKSam": {
     "Name": "",
-    "ButtonName": "",
-    "Version": "",
+    "ButtonName": "NCK Samsung",
+    "Version": "2.5",
     "Message": "_________",
     "MessageEN": "_________",
-    "DownloadUrl": ""
+    "DownloadUrl": "https://ln5.sync.com/4.0/dl/20f1a8b00/view/default/27433653550000#h7v2c8vc-p6y9zpgi-kgp9u6g6-qzwy2f5s"
   },
   "NCKPre": {
     "Name": "NCK MTK Preload",
