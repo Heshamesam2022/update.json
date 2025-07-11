@@ -145,8 +145,8 @@
     "DownloadUrl": "https://ln5.sync.com/4.0/dl/0d49e50e0/view/default/27507700740000#grzx8j7w-k427gnvi-cqbwixgf-i42pdvzy"
   },
   "NCKiOS": {
-    "Name": "",
-    "ButtonName": "NCK IOS",
+    "Name": "NCK IOS",
+    "ButtonName": "",
     "Version": "0.8",
     "Message": "_________",
     "MessageEN": "_________",
@@ -169,8 +169,8 @@
     "DownloadUrl": "https://drive.google.com/file/d/1uhAGubuMd5mIgxOaLW4N7JYWHRlOLFxR/view"
   },
   "NCKSam": {
-    "Name": "",
-    "ButtonName": "NCK Samsung",
+    "Name": "NCK Samsung",
+    "ButtonName": "",
     "Version": "2.5",
     "Message": "_________",
     "MessageEN": "_________",
@@ -187,10 +187,10 @@
     "DownloadUrl": "https://mega.nz/folder/834Elb4T#ZmQ0ohpj27nG0DFUENP5jA"
   },
   "NCKUni": {
-    "Name": "",
+    "Name": "NCK Unisoc",
     "ButtonName": "Download",
-    "Version": "",
+    "Version": "2.3.5",
     "Message": "_________",
-    "DownloadUrl": ""
+    "DownloadUrl": "https://mega.nz/folder/c2wizAQJ#KIFl23bUeEIOB3a5aA_TJg/folder/EjQgzTRb"
   }
 }
