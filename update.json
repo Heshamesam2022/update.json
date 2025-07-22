@@ -140,6 +140,8 @@
     "Name": "Nck Qualcomm",
     "ButtonName": "",
     "Version": "0.15.1",
+      "pass":"1",
+      "Pass":"NckTeam",
     "Message": "========",
     "MessageEN": "========",
     "DownloadUrl": "https://ln5.sync.com/4.0/dl/0d49e50e0/view/default/27507700740000#grzx8j7w-k427gnvi-cqbwixgf-i42pdvzy"
@@ -163,7 +165,9 @@
   "NCKGen": {
     "Name": "NCK MTK Generic",
     "ButtonName": "",
-    "Version": "",
+    "Version": "4.0",
+      "pass":"1",
+      "Pass":"NckTeam",
     "Message": "========",
     "MessageEN": "========",
     "DownloadUrl": "https://drive.google.com/file/d/1uhAGubuMd5mIgxOaLW4N7JYWHRlOLFxR/view"
@@ -190,6 +194,8 @@
     "Name": "NCK Unisoc",
     "ButtonName": "Download",
     "Version": "2.3.5",
+      "pass":"1",
+      "Pass":"NckTeam",
     "Message": "========",
     "DownloadUrl": "https://mega.nz/folder/c2wizAQJ#KIFl23bUeEIOB3a5aA_TJg/folder/EjQgzTRb"
   }
