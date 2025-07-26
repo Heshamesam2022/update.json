@@ -1,1 +1,27 @@
 
+{
+    "HydraBox": {
+    "Name": "AIO Runtime",
+    "ButtonName": "",
+    "Version": "6.6",
+      "Message": "========",
+    "MessageEN": "========",
+    "DownloadUrl": "https://www.hydradongle.com/download/software"
+  },
+  "UMTUni": {
+    "Name": "Visual C Runtime",
+    "ButtonName": "",
+    "Version": " All In One",
+    "Message": "========",
+    "MessageEN": "========", 
+    "DownloadUrl": "https://androidfilehost.com/?fid=9180008750105243373"
+  },
+  "UMTM": {
+    "Name": "MediaTek",
+    "ButtonName": "",
+    "Version": "2.2",
+    "Message": "========",
+      "MessageEN": "========",
+    "DownloadUrl": "https://mega.nz/file/ecRVASCB#Jp351kA8DSkYLVemE3rrLjsL6NlKzOBsqgn8g5dy42I"
+  }
+}
