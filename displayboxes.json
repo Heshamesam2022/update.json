@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "UMT QcFire",
+    "Path": "C:\\UMTool\\QcFire\\QcFire.exe",
+    "DownloadUrl": "https://example.com/umt-qcfire",
+    "Group": "UMT"
+  },
+  {
+    "Name": "UMT MTK2",
+    "Path": "C:\\UMTTool\\MTK\\MTKModule.exe",
+    "DownloadUrl": "https://example.com/umt-mtk",
+    "Group": "UMT"
+  },
+  {
+    "Name": "NCK Qualcomm",
+    "Path": "C:\\NCK\\Qualcomm\\NCKQualcomm.exe",
+    "DownloadUrl": "https://example.com/nck-qualcomm",
+    "Group": "NCK"
+  },
+  {
+    "Name": "Octoplus FRP",
+    "Path": "C:\\Octoplus\\FRP\\OctoplusFRP.exe",
+    "DownloadUrl": "https://example.com/octoplus-frp",
+    "Group": "Octoplus"
+  }
+]
