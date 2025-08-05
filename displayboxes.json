@@ -1,90 +1,105 @@
 [
   {
     "Name": "UMT QcFire",
+    "Time":"15",
     "Path": "C:\\UMTool\\QcFire\\QcFire.exe",
     "DownloadUrl": "https://mega.nz/file/2ZImnJoL#v_CPVoKWNPyjdbJesKN0xwxnrhR-XuvJTiC-v_JQVOc",
     "Group": "UMT"
   },
   {
     "Name": "UMT MTK2",
+    "Time":"15",
     "Path": "C:\\UMTTool\\MTK\\MTKModule.exe",
     "DownloadUrl": "https://mega.nz/file/ecRVASCB#Jp351kA8DSkYLVemE3rrLjsL6NlKzOBsqgn8g5dy42I",
     "Group": "UMT"
   },
   {
     "Name": "UMT Unisoc",
+    "Time":"15",
     "Path": "C:\\UMTool\\Unisoc\\UMTUni.exe",
     "DownloadUrl": "https://androidfilehost.com/?fid=9180008750105243373",
     "Group": "UMT"
   },
   {
     "Name": "NCK Qualcomm",
+    "Time":"15",
     "Path": "C:\\NCK\\Qualcomm\\NCKQualcomm.exe",
     "DownloadUrl": "https://ln5.sync.com/4.0/dl/0d49e50e0/view/default/27507700740000#grzx8j7w-k427gnvi-cqbwixgf-i42pdvzy",
     "Group": "NCK"
   },
   {
     "Name": "NCK MTK Generic",
+    "Time":"15",
     "Path": "C:\\NCK\\MTK\\NCKGeneric.exe",
     "DownloadUrl": "https://drive.google.com/file/d/1uhAGubuMd5mIgxOaLW4N7JYWHRlOLFxR/view",
     "Group": "NCK"
   },
   {
     "Name": "NCK Samsung",
+    "Time":"15",
     "Path": "C:\\NCK\\Samsung\\NCKSamsung.exe",
     "DownloadUrl": "https://ln5.sync.com/4.0/dl/20f1a8b00/view/default/27433653550000#h7v2c8vc-p6y9zpgi-kgp9u6g6-qzwy2f5s",
     "Group": "NCK"
   },
   {
     "Name": "Octoplus FRP",
+    "Time":"20",
     "Path": "C:\\Octoplus\\FRP\\OctoplusFRP.exe",
     "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_FRP_2.8.1.1.exe",
     "Group": "Octoplus"
   },
   {
     "Name": "Octoplus LG",
+    "Time":"20",
     "Path": "C:\\Octoplus\\LG\\OctoplusLG.exe",
     "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_octopus_LG_3.2.4.0.exe",
     "Group": "Octoplus"
   },
   {
     "Name": "Octoplus Samsung",
+    "Time":"20",
     "Path": "C:\\Octoplus\\Samsung\\OctoplusSamsung.exe",
     "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_samsung_4.3.3.2.exe",
     "Group": "Octoplus"
   },
   {
     "Name": "Octoplus Huawei",
+    "Time":"20",
     "Path": "C:\\Octoplus\\Huawei\\OctoplusHuawei.exe",
     "DownloadUrl": "https://octoplusbox.com/files/softs/install_octoplus_huawei_1.3.5.exe",
     "Group": "Octoplus"
   },
   {
     "Name": "Z3X Samsung",
+    "Time":"20",
     "Path": "C:\\Z3X\\Samsung\\Z3XSamsung.exe",
     "DownloadUrl": "https://drive.google.com/file/d/1bfd_4BbPKEA8YtTqDRruw7NgPA5I2N23/view",
     "Group": "Z3X"
   },
   {
     "Name": "Z3X LG",
+    "Time":"20",
     "Path": "C:\\Z3X\\LG\\Z3XLG.exe",
     "DownloadUrl": "https://www.mediafire.com/file_premium/ei077hwsyy3fb14/LG_2-3G_Tool_v9.82_%2528by_gsmofficial.com%2529.zip/file",
     "Group": "Z3X"
   },
   {
     "Name": "EFT Pro",
+    "Time":"15",
     "Path": "C:\\EFT\\EFTPro.exe",
     "DownloadUrl": "https://easy-firmware.com/index.php?a=downloads&b=file&id=250229",
     "Group": "EFT"
   },
   {
     "Name": "Hydra Dongle",
+    "Time":"30",
     "Path": "C:\\Hydra\\HydraDongle.exe",
     "DownloadUrl": "https://www.hydradongle.com/download/software",
     "Group": "Hydra"
   },
   {
     "Name": "Sigma Plus",
+    "Time":"30",
     "Path": "C:\\Sigma\\SigmaPlus.exe",
     "DownloadUrl": "https://sigmakey.com/nfs/content/5802/file/sigmaplus-software-setup-v1.00.10.00.exe",
     "Group": "Sigma"
