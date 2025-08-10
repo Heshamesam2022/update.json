@@ -55,8 +55,7 @@
     "Version": "0.9",
     "Path": "",
     "DownloadUrl": "https://mega.nz/folder/c2wizAQJ#KIFl23bUeEIOB3a5aA_TJg/folder/EjQgzTRb",
-    "Group": "NCK",
-    "Group": "Boxes"
+    "Group": ["NCK","Boxes"]
   },
   {
     "Name": "Octoplus FRP",
