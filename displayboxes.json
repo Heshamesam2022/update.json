@@ -41,6 +41,23 @@
     "DownloadUrl": "https://ln5.sync.com/4.0/dl/20f1a8b00/view/default/27433653550000#h7v2c8vc-p6y9zpgi-kgp9u6g6-qzwy2f5s",
     "Group": "NCK"
   },
+    {
+    "Name": "NCK MTK Preload",
+    "Time":"15",
+    "Version": "2.5",
+    "Path": "C:\\NCK\\Samsung\\NCKSamsung.exe",
+    "DownloadUrl": "https://mega.nz/folder/834Elb4T#ZmQ0ohpj27nG0DFUENP5jA",
+    "Group": "NCK"
+  },
+  {
+  "Name": "NCK Unisoc",
+    "Time":"15",
+    "Version": "0.9",
+    "Path": "",
+    "DownloadUrl": "https://mega.nz/folder/c2wizAQJ#KIFl23bUeEIOB3a5aA_TJg/folder/EjQgzTRb",
+    "Group": "NCK"
+    "Group": "Boxes"
+  },
   {
     "Name": "Octoplus FRP",
     "Time":"20",
